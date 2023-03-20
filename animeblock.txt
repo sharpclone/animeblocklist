@@ -28,8 +28,7 @@ animedao.com
 animedao.disqus.com
 
 
-gogoanime.newsupcoming-animetv-series
-gogoanime.newsupcoming-animetv-series
+gogoanime.news
 ww4.gogoanimes.org
 gogoanime.mom
 www3.gogoanimes.fi
@@ -42,6 +41,8 @@ cdn.animeapi.com
 ww5.dubbedanime.net
 animeidhentai.com
 hanime.tv
+
+
 
 manganelo.com
 topmanhua.com
