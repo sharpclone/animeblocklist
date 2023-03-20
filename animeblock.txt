@@ -27,6 +27,15 @@ animedao25.stream
 animedao.com
 animedao.disqus.com
 
+
+gogoanime.newsupcoming-animetv-series
+gogoanime.newsupcoming-animetv-series
+ww4.gogoanimes.org
+gogoanime.mom
+www3.gogoanimes.fi
+ww4.gogoanime2.org
+animedao.to
+
 #beyond
 static.animecdn.xyz
 cdn.animeapi.com
