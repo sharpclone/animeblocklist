@@ -35,7 +35,7 @@ gogoanime.mom
 www3.gogoanimes.fi
 ww4.gogoanime2.org
 animedao.to
-
+gogoanime.news
 #beyond
 static.animecdn.xyz
 cdn.animeapi.com
